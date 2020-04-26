@@ -34,4 +34,4 @@ const getClosestPointToRouteSegment = (point, [ start, end ]) => {
   }
 }
 
-module.exports = getClosestPointToSegment;
+module.exports = getClosestPointToRouteSegment;
